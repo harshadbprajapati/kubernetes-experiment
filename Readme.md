@@ -1,0 +1,1 @@
+Demo app to demonstrate creating Kubernetes app using .yaml files
